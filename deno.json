@@ -1,0 +1,6 @@
+{
+  "name": "@mod-by-cis/console-serie-view",
+  "version": "0.0.1",
+  "exports": "./mod.ts",
+  "license": "MIT"
+}
