@@ -1,5 +1,5 @@
 {
-  "name": "@mod-by-cis/console-serie-view",
+  "name": "@mod-by-cis/console-extended",
   "version": "0.0.1",
   "exports": "./mod.ts",
   "license": "MIT"

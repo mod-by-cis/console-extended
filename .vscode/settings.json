@@ -13,4 +13,5 @@
   "editor.guides.indentation": true,
   "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
+  "gitflow.disableOnRepo": true,
 }
